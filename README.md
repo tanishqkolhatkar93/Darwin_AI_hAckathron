@@ -118,7 +118,7 @@ great work 🚀!
 3.  Run the tool:
 
     ``` bash
-    python code_review_assistant.py input.json output.md
+    python code_review.py input.json output.md
     ```
 
 4.  Open the generated `output.md` in GitHub/Markdown viewer.
