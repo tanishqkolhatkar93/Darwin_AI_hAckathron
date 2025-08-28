@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "comment": "The variable names are not descriptive enough.",
+            "snippet": "x = 10\ny = 20\nz = x + y"
+        },
+        {
+            "comment": "Consider optimizing this loop to reduce time complexity.",
+            "snippet": "for i in range(len(arr)):\n    for j in range(len(arr)):\n        if arr[i] == arr[j]:\n            print('duplicate')"
+        }
+    ]
+}
